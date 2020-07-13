@@ -1,3 +1,3 @@
 #pragma once
 
-int my_ntohl(int n);
+uint32_t  my_ntohl(uint32_t  n);
